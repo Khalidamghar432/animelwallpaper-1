@@ -4,11 +4,11 @@
         "redirectURL": ""
     },
     "AdsController": {
-        "BannerNetwork": "yandex",
+        "BannerNetwork": "admob",
         "InterstitialNetwork": "admob",
-        "NativeNetwork": "yandex",
-        "OpenAdNetwork": "yandex",
-        "IntervalClick": 1,
+        "NativeNetwork": "admob",
+        "OpenAdNetwork": "admob",
+        "IntervalClick": 5,
         "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
         "AdMob_InterstitialAd": "ca-app-pub-3940256099942544/1033173712",
         "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
