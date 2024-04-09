@@ -1,92 +1,92 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
+      "name": "Animal Hd ",
       "preview": "https://avatars.mds.yandex.net/i?id=d365036fba730c8477bdfd123c6b141c4ed9329b-12376819-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
+          "category": "Animal Hd",
           "path": "https://avatars.mds.yandex.net/i?id=ccd1ceacaacdcd4d2fdfe44c9d024baf02a2c107-7132164-images-thumbs&n=13"
         },
         
         {
           "id": 5,
-          "category": "category_name_1",
+          "category": "Animal Hd",
           "path": "https://avatars.mds.yandex.net/i?id=0992c182196acfe53172343709c964966b5f004b-9099023-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
+          "category": "Animal Hd",
           "path": "https://avatars.mds.yandex.net/i?id=e8ddd64b857a3f826e7cf113fa43751a702aba78-12371805-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
+          "category": "Animal Hd",
           "path": "https://avatars.mds.yandex.net/i?id=3560996ed428552d616b5f97fe446b31e7f598aa-5226897-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
+      "name": "Animal 4k",
       "preview": "https://avatars.mds.yandex.net/i?id=e7603e8ee1a9bee8c307f15e035786cd81ab038f-10931123-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
+          "category": "Animal 4k",
           "path": "https://avatars.mds.yandex.net/i?id=bc34860e45226289ea079b5b585007f08b83946b-12393450-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
+          "category": "Animal 4k",
           "path": "https://avatars.mds.yandex.net/i?id=92908c08ed7f30e42932f1b9cc8aaab2e1fea3c6-12473946-images-thumbs&n=13"
         },
        
         {
           "id": 5,
-          "category": "category_name_2",
+          "category": "Animal 4k",
           "path": "https://avatars.mds.yandex.net/i?id=4c9a9f8875bd055c6af6e52b05b80dfed41f03a0-11551355-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
+          "category": "Animal 4k",
           "path": "https://avatars.mds.yandex.net/i?id=e7e4b7985ef4b234d1e0b7c658eab58c754383c3-9609067-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
+          "category": "Animal 4k",
           "path": "https://avatars.mds.yandex.net/i?id=072ccd9045e01f0380826f1d4d1e0c7b62dec71c-10414372-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
+      "name": "Animal 4k",
       "preview": "https://avatars.mds.yandex.net/i?id=feeaada44af148f81f4f7511d37bcce2c143ac7c-9842162-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
+          "category": "aranconda animal ",
           "path": "https://avatars.mds.yandex.net/i?id=c88c24650f948c2f57b17c6cc4693185eb686185-12621680-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
+          "category": "aranconda animal",
           "path": "https://avatars.mds.yandex.net/i?id=761f48e5cd32eb0a47748090f5e8ce402c9b5bbc-12422712-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
+          "category": "aranconda animal",
           "path": "https://avatars.mds.yandex.net/i?id=f71263aaf3d22d2cc5f8086fbdb043688a88a068-12495681-images-thumbs&n=13"
         },
        
         {
           "id": 6,
-          "category": "category_name_3",
+          "category": "aranconda animal",
           "path": "https://avatars.mds.yandex.net/i?id=f71263aaf3d22d2cc5f8086fbdb043688a88a068-12495681-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
+          "category": "aranconda animal",
           "path": "https://avatars.mds.yandex.net/i?id=1bee36dcbbd3f821a94a38c9eec9bcf807fbfed6-10878230-images-thumbs&n=13"
         }
       ]
